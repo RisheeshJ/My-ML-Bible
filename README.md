@@ -1,2 +1,2 @@
 # My-ML-Bible
-My ML related notes, documents etc
+My ML related notes, documents ,projects etc
